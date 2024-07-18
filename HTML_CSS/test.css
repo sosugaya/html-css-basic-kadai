@@ -1,0 +1,23 @@
+#first-div {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: lightblue;
+  }
+  #second-div {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: lightgreen;
+  }
+  #third-div {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: lightgray;
+  }
+  #fourth-div {
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+  }

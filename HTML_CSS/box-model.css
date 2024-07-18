@@ -1,0 +1,20 @@
+p {
+    border: solid 5px yellow;   
+    padding: 10px;
+    margin: 10px;
+  }
+
+  #first-paragraph {      
+    margin-bottom: 30px;
+    border: solid 5px yellow; 
+  }
+
+  #second-paragraph {  
+  padding-left: 20px;
+   padding-right: 40px;
+   margin-top: 20px;
+   margin-bottom: 40px;      
+   margin-top: 10px;    
+   
+   border: solid 5px yellow; 
+  }
